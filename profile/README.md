@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I don't know how and why you found this but welcome! We are DeltaV Modding, a small group of modders with our main focus on Minecraft and Stormworks. You can check out our projects on our Discord.
+
 <!--
 
 **Here are some ideas to get you started:**
