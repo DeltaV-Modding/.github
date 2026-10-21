@@ -1,14 +1,25 @@
-## Hi there 👋
+# 👋 Hey, we're DeltaV Modding
 
-I don't know how and why you found this but welcome! We are DeltaV Modding, a small group of modders with our main focus on Minecraft and Stormworks. You can check out our projects on our Discord.
+🧩 Small modding group • 🎮 Minecraft • 🚂 Stormworks • 🛠️ Mods & Tools
 
-<!--
+Welcome! We're a small group of modders with our main focus on Minecraft and Stormworks. We enjoy building mods, experimenting with new ideas and turning them into working projects.
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🧰 What We Work On
+
+- 🎮 **Minecraft** - addons and forks like *Create: Crafts & Construct*, *DashLoader* and *Diversity*.
+- 🚂 **Stormworks** - mods and tooling for the game.
+
+---
+
+## 🔗 Find Us
+
+- 💬 Discord: [DeltaV Modding](https://discord.com/invite/5Tjw429zwN)
+- 📺 YouTube: [@DeltaVModding](https://www.youtube.com/@DeltaVModding)
+
+---
+
+<p align="center">
+  <i>Building things, breaking things, learning how they work.</i>
+</p>
