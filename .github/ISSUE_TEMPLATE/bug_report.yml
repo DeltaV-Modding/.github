@@ -1,0 +1,32 @@
+name: Bug report
+description: Something does not work as it should.
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: What did you do, what did you expect, and what happened instead?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. ...
+        2. ...
+    validations:
+      required: true
+  - type: input
+    id: versions
+    attributes:
+      label: Versions
+      description: Game version, launcher / loader version, mod version.
+      placeholder: Stormworks 1.15.27, DeltaLauncher 1.0.19, mod 1.0.3
+  - type: textarea
+    id: log
+    attributes:
+      label: Log
+      description: For Stormworks mods, %TEMP%\stormworks_mods.log (drag the file in).
+      render: text

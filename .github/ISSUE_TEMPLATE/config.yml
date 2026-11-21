@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions and help (Discord)
+    url: https://discord.com/invite/5Tjw429zwN
+    about: Ask questions and get help from the community.
+  - name: Security problem
+    url: https://github.com/DeltaV-Modding/.github/blob/main/SECURITY.md
+    about: Please report security problems privately.
