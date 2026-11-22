@@ -31,7 +31,6 @@ are shipped.
 | Project | What it is |
 |---|---|
 | [**Create: Crafts & Construct**](https://github.com/DeltaV-Modding/Create-Crafts-Construct) | An addon for Create. [Modrinth](https://modrinth.com/mod/create_cc) |
-| [**Diversity**](https://github.com/DeltaV-Modding/Diversity) | [Modrinth](https://modrinth.com/mod/faewufs-diversity) |
 | [**DashLoader**](https://github.com/DeltaV-Modding/DashLoader) | Launch Minecraft faster. |
 
 ## 🤝 Get involved
